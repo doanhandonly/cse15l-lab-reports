@@ -9,6 +9,9 @@
 ![image](https://user-images.githubusercontent.com/127058698/230822701-1bda1b3b-4b0f-4cc5-8cb5-4ad369369d50.png)
 --- 
 # **Remotely Connecting**
-1. Follow this [link](https://sdacs.ucsd.edu/~icc/index.php) to grab your couse-specific ID
-![image](https://user-images.githubusercontent.com/127058698/230831685-9296f2c1-f9b6-42e0-8d6c-741e8a7fdf2f.png)
-2. While here, you are going to have to reset your password, follow this [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) if assisted is needed
+1. Follow this [link](https://sdacs.ucsd.edu/~icc/index.php) to grab your couse-specific ID (we are going to need this for later) 
+![image](https://user-images.githubusercontent.com/127058698/230832323-60a714cd-968c-4707-8354-08e4eaef111b.png)
+2. While here, you are going to have to reset your password, follow this [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) if assistance is needed
+3. Install [Git](https://gitforwindows.org/) and follow through with the installation, once done, your terminal should have the ability to use Git, if you want Git as your default terminal, follow the steps in this [post](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) 
+![image](https://user-images.githubusercontent.com/127058698/230832688-3ec0acf5-ef28-45f6-9e2a-1abea9089655.png)
+
