@@ -24,6 +24,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 6. You would then be asked to input a password (this should be the password you inputted when  you resetted your password in step 2
 ![image](https://user-images.githubusercontent.com/127058698/230833869-2625ffe8-5fcb-4539-bae4-36dbe899afad.png)
 7. You are now remotely connected!
+
 ---
 # **Trying Some Commands**
 ![image](https://user-images.githubusercontent.com/127058698/230834221-d2b078eb-dde8-449d-b886-946eaac25af7.png)
