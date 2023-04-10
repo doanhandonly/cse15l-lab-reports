@@ -28,5 +28,8 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ---
 # **Trying Some Commands**
 ![image](https://user-images.githubusercontent.com/127058698/230834221-d2b078eb-dde8-449d-b886-946eaac25af7.png)
-
+1. I used cat to print out the contents of my text file
+2. Then I used pwd see what the current working path directory is
+3. Using cd ~, it reseted the current working directory to the parent directory 
+4. Then I used "cd OneDrive\Documents" jumping a directory to set the current working directory to my Documents directory
 
