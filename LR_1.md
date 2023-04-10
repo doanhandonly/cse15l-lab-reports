@@ -26,5 +26,6 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 7. You are now remotely connected!
 ---
 # **Trying Some Commands**
+![image](https://user-images.githubusercontent.com/127058698/230834221-d2b078eb-dde8-449d-b886-946eaac25af7.png)
 
 
