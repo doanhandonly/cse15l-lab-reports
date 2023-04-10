@@ -9,3 +9,6 @@
 ![image](https://user-images.githubusercontent.com/127058698/230822701-1bda1b3b-4b0f-4cc5-8cb5-4ad369369d50.png)
 --- 
 # **Remotely Connecting**
+1. Follow this [link](https://sdacs.ucsd.edu/~icc/index.php) to grab your couse-specific ID
+![image](https://user-images.githubusercontent.com/127058698/230831685-9296f2c1-f9b6-42e0-8d6c-741e8a7fdf2f.png)
+2. While here, you are going to have to reset your password, follow this [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) if assisted is needed
