@@ -14,5 +14,6 @@
 2. While here, you are going to have to reset your password, follow this [guide](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) if assistance is needed
 3. Install [Git](https://gitforwindows.org/) and follow through with the installation, once done, your terminal should have the ability to use Git
 ![image](https://user-images.githubusercontent.com/127058698/230832688-3ec0acf5-ef28-45f6-9e2a-1abea9089655.png)
-4. In the terminal, input this command,  <ssh cs15lsp23zz@ieng6.ucsd.edu>
+4. In the terminal, input this command,  ssh cs15lsp23zz@ieng6.ucsd.edu
+> Hi
 
