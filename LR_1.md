@@ -16,9 +16,15 @@
 ![image](https://user-images.githubusercontent.com/127058698/230832688-3ec0acf5-ef28-45f6-9e2a-1abea9089655.png)
 4. In the terminal, input this command, while replacing zz with the course-specific ID you acquired during step 1
 > ssh cs15lsp23zz@ieng6.ucsd.edu 
-5. The following lines would return this
+5. The following command lines would return this, type yes in the input
 > ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+6. You would then be asked to input a password (this should be the password you inputted when  you resetted your password in step 2
+![image](https://user-images.githubusercontent.com/127058698/230833869-2625ffe8-5fcb-4539-bae4-36dbe899afad.png)
+7. You are now remotely connected!
+---
+# **Trying Some Commands**
+
 
