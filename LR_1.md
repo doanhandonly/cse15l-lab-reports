@@ -16,4 +16,9 @@
 ![image](https://user-images.githubusercontent.com/127058698/230832688-3ec0acf5-ef28-45f6-9e2a-1abea9089655.png)
 4. In the terminal, input this command, while replacing zz with the course-specific ID you acquired during step 1
 > ssh cs15lsp23zz@ieng6.ucsd.edu 
+5. The following lines would return this
+> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
