@@ -15,7 +15,7 @@
 3. Install [Git](https://gitforwindows.org/) and follow through with the installation, once done, your terminal should have the ability to use Git
 ![image](https://user-images.githubusercontent.com/127058698/230832688-3ec0acf5-ef28-45f6-9e2a-1abea9089655.png)
 4. In the terminal, input this command, while replacing zz with the course-specific ID you acquired during step 1
-> ssh cs15lsp23zz@ieng6.ucsd.edu 
+'ssh cs15lsp23zz@ieng6.ucsd.edu'
 5. The following command lines would return this, type yes in the input
 > ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
