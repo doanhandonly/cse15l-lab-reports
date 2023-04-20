@@ -17,6 +17,7 @@
 4. In the terminal, input this command, while replacing zz with the course-specific ID you acquired during step 1
 
 `ssh cs15lsp23zz@ieng6.ucsd.edu`
+
 5. The following command lines would return this, type yes in the input
 > ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
