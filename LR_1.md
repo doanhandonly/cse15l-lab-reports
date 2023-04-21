@@ -37,7 +37,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 ![image](https://user-images.githubusercontent.com/127058698/233588078-d3b2d2da-995f-4b4f-a543-c23b3b0fafbe.png)
 
-The command cd followed by > ..  allows the user to go back a directory 
+The command cd followed by ".."  allows the user to go back a directory 
 
 ![image](https://user-images.githubusercontent.com/127058698/233587257-3820f777-e6c0-4d37-9e1f-e00ef2f08f4b.png)
 
