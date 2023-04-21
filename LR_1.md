@@ -35,6 +35,10 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 3. Using cd ~, it reseted the current working directory to the parent directory 
 4. Then I used "cd OneDrive\Documents" jumping a directory to set the current working directory to my Documents directory
 
+![image](https://user-images.githubusercontent.com/127058698/233588078-d3b2d2da-995f-4b4f-a543-c23b3b0fafbe.png)
+
+The command cd followed by > .. > allows the user to go back a directory 
+
 ![image](https://user-images.githubusercontent.com/127058698/233587257-3820f777-e6c0-4d37-9e1f-e00ef2f08f4b.png)
 
 Messing around with the cat command, I found out that you can copy a text file and send it to another text file. 
