@@ -10,4 +10,4 @@ __1)__
   > localhost:4000/add-message?s=
 
   The values of any relevant fields of the class would be what is after the "="
-*
+* The values of any relevant fields only adds to the str field, resulting in lines and lines of string whenever the server runs
