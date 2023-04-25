@@ -31,7 +31,6 @@ __Failure Inducing Input__
 
 
 
-
     public void testReverseInPlace() {
     
       int[] input2 = {1,2,3};
@@ -40,6 +39,17 @@ __Failure Inducing Input__
     
       assertArrayEquals(new int[]{3,2,1}, input2);
     }
+
+__Non-Failure Inducing Input__
+
+    public void testReverseInPlace() {
     
+      int[] input1 = {3};
     
+      ArrayExamples.reverseInPlace(input2);
+    
+      assertArrayEquals(new int[]{3}, input1);
+    }
+   
+
 
