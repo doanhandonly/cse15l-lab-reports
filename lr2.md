@@ -78,4 +78,6 @@ __After Code__
         arr[arr.length - i - 1] = temp;
       }
     }
+    
+The issue was that once the array was changed in the first half, the original first half of the array was erased from existence and you could not get back the original first half values of the array. Adding a temporary variable helped store the first half of the array, and adding to the end of the array. 
 
