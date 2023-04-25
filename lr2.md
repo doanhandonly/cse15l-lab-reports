@@ -8,5 +8,5 @@ __1)__
 * The method being called here is `handRequest`
 * The relevant arguments to this method is the data type URI, which in this case is 
   > localhost:4000/add-message?s=
-  > the values of any relevant fields of the class would be what is after the "="
+The values of any relevant fields of the class would be what is after the "="
 *
