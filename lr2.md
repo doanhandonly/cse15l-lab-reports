@@ -28,6 +28,7 @@ __2)__
 Part 2
 =========
 `
+
   public void testReverseInPlace() {
     
     int[] input2 = {1,2,3};
@@ -36,5 +37,6 @@ Part 2
     
     assertArrayEquals(new int[]{3,2,1}, input2);
   }
+  
   
 `	
