@@ -27,7 +27,7 @@ __2)__
 
 Part 2
 =========
-__Failure Inducing Input__
+__Failure Inducing Input:__
 
 
 
@@ -40,7 +40,7 @@ __Failure Inducing Input__
       assertArrayEquals(new int[]{3,2,1}, input2);
     }
 
-__Non-Failure Inducing Input__
+__Non-Failure Inducing Input:__
 
     public void testReverseInPlace() {
     
@@ -50,6 +50,13 @@ __Non-Failure Inducing Input__
     
       assertArrayEquals(new int[]{3}, input1);
     }
-   
+    
+ __Failure Inducing Input Symptom:__
+ ![image](https://user-images.githubusercontent.com/127058698/234182066-d3b1b0f2-bc1d-4103-94b4-bae8315c5f82.png)
+
+ __Non-Failure Inducing Input Symptom:__
+ 
+ ![image](https://user-images.githubusercontent.com/127058698/234181949-36d397e6-6121-4379-9e11-480ee42941a9.png)
+
 
 
