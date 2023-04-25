@@ -81,3 +81,7 @@ __After Code__
     
 The issue was that once the array was changed in the first half, the original first half of the array was erased from existence and you could not get back the original first half values of the array. Adding a temporary variable helped store the first half of the array, and adding to the end of the array. 
 
+Part 3
+=========
+In the most recent lab, lab 3, I learned that there are layers to debugging, and it is more sophiscated then just spending hours staring at a line of code. That there is a more effective approach to debugging then staring. Breaking down debugging, things you have to consider. These things are the failure-inducing input, the symptom (which is the output of the failure-inducing input / faulty behavior). And the bug itself (the thing that is causing programmers across the world nightmares). 
+
