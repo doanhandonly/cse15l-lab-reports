@@ -11,3 +11,7 @@ __1)__
 
   The values of any relevant fields of the class would be what is after the "="
 * The values of any relevant fields only adds to the str field, resulting in lines and lines of string whenever the server runs
+
+__2)__
+
+![image](https://user-images.githubusercontent.com/127058698/234177913-85d51baf-323f-46ee-82a1-fbd1e54f7af7.png)
