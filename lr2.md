@@ -24,3 +24,6 @@ __2)__
 * The values of any relevant fields only adds to the str field, resulting in lines and lines of string whenever the server runs
 
 (essentially, the same things happen when I ran the query) 
+
+Part 2
+=========
