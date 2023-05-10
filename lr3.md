@@ -1,2 +1,2 @@
-Grep Command-Line Options
+Grep Command-Lines
 =========
