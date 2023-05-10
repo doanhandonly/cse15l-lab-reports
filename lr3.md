@@ -6,4 +6,4 @@ Grep Command-Lines
      
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/e1dd2ba5-de15-4bb5-adc8-92e486f635a5)
       
-      asdfasdf as
+      When using grep -l, it finds any file path that matches the query, returning all paths that query. 
