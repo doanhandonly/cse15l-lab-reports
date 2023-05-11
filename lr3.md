@@ -20,5 +20,6 @@ Grep Command-Lines
 
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/cbc0bc76-09cf-43f4-989d-268243456ae2)
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/44299ab0-883a-49a3-ba7f-8146f15ab385)
-
+      
+      Grep -n returns the files that contains the command-line input, and returns the exact line in that file that contains that character. Like grep -l, it locates which files contains your input query. On top       of that, it also returns the line in which it is situated. If you ever need to reference which line number contains said query, then grep -n can do just that. 
 
