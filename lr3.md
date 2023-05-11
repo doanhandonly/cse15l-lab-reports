@@ -31,3 +31,7 @@ Grep Command-Lines
       Grep -e grants the ability to query/ search for multiple command-line inputs, returning the lines and file path that matches the multiple searches. Grep -e is extremely useful when you want to save time         who doesn't want to save time. By allowing you to search/query multiple inputs instead of one, you can do all your searching in one input. 
 
       
+# **Sources**
+1. ChatGPT
+2. `git grep --help` - pulls up a mini documentation manual of grep commands
+3. https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
