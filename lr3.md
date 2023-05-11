@@ -9,7 +9,7 @@ Grep Command-Lines
       When using grep -l, it finds any file path that matches the query, returning all paths that query. Grep -l is extremely useful if you want to find which files contains certain contents, you do not have to 
       open any files one by one, looking for something specific, simply use grep -l (query) and it will point you directly to which file path has what you are looking for. 
 
-2. `grep -iw` (not case-senstive) 
+2. `grep -iw` 
 
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/7c17daca-f554-46ca-bde7-3525d64334f2)
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/40445284-e7c4-43f4-b04c-039d5b166464)
@@ -23,3 +23,9 @@ Grep Command-Lines
       
       Grep -n returns the files that contains the command-line input, and returns the exact line in that file that contains that character. Like grep -l, it locates which files contains your input query. On top       of that, it also returns the line in which it is situated. If you ever need to reference which line number contains said query, then grep -n can do just that. 
 
+4. `grep -e`
+      
+      ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/4509ebbc-5766-4531-8817-5748eba5b07d)
+      ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/c668f391-ea88-485d-b3e0-d820d8d51013)
+
+      
