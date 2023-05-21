@@ -17,18 +17,23 @@ Grep Command-Lines
 
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/7c17daca-f554-46ca-bde7-3525d64334f2)
       
-      (Used grep -iw, to locate files that match the given in-line arguement. in this case being, "dap")
+      (Used grep -iw to locate files that match the given in-line arguement. in this case being, "dap")
       
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/40445284-e7c4-43f4-b04c-039d5b166464)
       
-      (Used grep -iw, to locate files that match the given in-line arguement. in this case being, "beach")
+      (Used grep -iw to locate files that match the given in-line arguement. in this case being, "beach")
 
       When using grep -iw, it finds lines that contains words matching the command-line input, EXCLUDING SUB-STRINGS. Grep -iw is useful when you want to query for lines that contains the input given in the           command-line, without considering sub-strings. For example, grep -iw "dap" would return a line, "how was your dap", and exclude lines like, "that was daptastic". It is useful when you to really be               specific and "picky" about your query. 
       
 3. `grep -n`
 
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/cbc0bc76-09cf-43f4-989d-268243456ae2)
+      
+      (Used grep -n to locate files AND line withing that file that match the given in-line arguement, in this case, "beach") 
+      
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/44299ab0-883a-49a3-ba7f-8146f15ab385)
+      
+      (Added -iw to ignore any cases (upper/ lower case) and paired it with -n to locate files AND line withing that file that match the given in-line arguement, in this case, "dap")
       
       Grep -n returns the files that contains the command-line input, and returns the exact line in that file that contains that character. Like grep -l, it locates which files contains your input query. On top       of that, it also returns the line in which it is situated. If you ever need to reference which line number contains said query, then grep -n can do just that. 
 
