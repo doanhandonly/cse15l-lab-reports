@@ -16,8 +16,13 @@ Grep Command-Lines
 2. `grep -iw` 
 
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/7c17daca-f554-46ca-bde7-3525d64334f2)
+      
+      (Used grep -iw, to locate files that match the given in-line arguement. in this case being, "dap")
+      
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/40445284-e7c4-43f4-b04c-039d5b166464)
       
+      (Used grep -iw, to locate files that match the given in-line arguement. in this case being, "beach")
+
       When using grep -iw, it finds lines that contains words matching the command-line input, EXCLUDING SUB-STRINGS. Grep -iw is useful when you want to query for lines that contains the input given in the           command-line, without considering sub-strings. For example, grep -iw "dap" would return a line, "how was your dap", and exclude lines like, "that was daptastic". It is useful when you to really be               specific and "picky" about your query. 
       
 3. `grep -n`
