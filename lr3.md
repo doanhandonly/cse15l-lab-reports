@@ -40,9 +40,14 @@ Grep Command-Lines
 4. `grep -e`
       
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/4509ebbc-5766-4531-8817-5748eba5b07d)
+      
+      (Used grep -e with two arguements, "beach" and "sunny" to search for files that contain these two command-line arguements) 
+      
       ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/c668f391-ea88-485d-b3e0-d820d8d51013)
+      
+      (Used grep -e with two arguements, "San Diego" and "Los Angeles" to search for files that contain these two command-line arguements) 
 
-      Grep -e grants the ability to query/ search for multiple command-line inputs, returning the lines and file path that matches the multiple searches. Grep -e is extremely useful when you want to save time         who doesn't want to save time. By allowing you to search/query multiple inputs instead of one, you can do all your searching in one input. 
+      Grep -e grants the ability to query/ search for multiple command-line inputs, returning the lines and file path that matches the multiple searches. Grep -e is extremely useful when you want to save time, and who doesn't want to save time. By allowing you to search/query multiple inputs instead of one, you can do all your searching in one input. 
 
       
 # **Sources**
