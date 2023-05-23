@@ -28,4 +28,21 @@ Lab Report 4
 
 ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/18b55e90-0f22-4f11-bcec-b94da424bee4)
    
-> exit <enter> / ^ (up arrow until you reach javac compiler) <enter> / ^ (up arrow until you reach java execute) <enter> 
+> exit <enter> / ^ (up arrow until you reach javac compiler) <enter> / ^ (up arrow until you reach java execute) <enter>
+  
+* **Step 9**
+
+![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/6808ba79-6e90-4a2f-97fd-e0fa75d0148b)
+
+> git add ListExamples.java <enter> / git status <enter> (not neccessary, just checking if you are on the right path)
+  
+![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/ac7fde42-3468-484b-9fed-0d00c0307818)
+  
+> git commit -m "Message" <enter> 
+  
+![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/ec459e5c-0595-4321-82de-ae129eb733ba)
+  
+>git push origin main <enter> 
+
+
+
