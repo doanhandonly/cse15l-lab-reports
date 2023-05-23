@@ -16,10 +16,16 @@ Lab Report 4
 
 ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/d35f61f3-cf1d-4f06-896b-d34ebf86e4fb)
 
->cd lab7 <enter> /cat test.sh (copy the execute and comple line) <enter> / ctrl-v (or whatever your past command is) both the compile and execute
+>cd lab7 <enter> /cat test.sh (copy the compile and execute line) <enter> / ctrl-v (or whatever your past command is) both the compile and execute
 
 # **Step 7**
 
 ![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/423a0632-9ddf-418e-b4ce-efab8d2d1b59)
 
 >vim ListExamples <enter>/ "/change" <enter> / j / ll / x / i / 2 / esc / <shift> :wq <enter>
+  
+# **Step 8**
+
+![image](https://github.com/doanhandonly/cse15l-lab-reports/assets/127058698/18b55e90-0f22-4f11-bcec-b94da424bee4)
+   
+> exit <enter> / ^ (up arrow until you reach javac compiler) <enter> / ^ (up arrow until you reach java execute) <enter> 
