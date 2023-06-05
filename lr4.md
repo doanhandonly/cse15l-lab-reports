@@ -54,6 +54,9 @@ Reran JUnit tests on the .java file, previously, it failed the tests, but after 
 
 `git push origin main <enter> `
 
+The process of essentially logging the current version of the repository. First begain by adding the file to the committ pool. Used git status to double check if the committ pool had the file. Then proceeded to committ (logging it) the file, followed by a message that it was committed. 
+
+
 
 
 
